@@ -3767,3 +3767,8 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.16-20.21.17:204][811]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3259.934814
 [2025.07.16-20.21.18:206][814]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.07.16-20.21.18:206][814]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3260.602539, Update Interval: 302.063660
+[2025.07.16-20.22.53:988][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.07.16-20.22.54:069][101]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Shooter/Lvl_ArenaShooter_Auto4
+[2025.07.16-20.22.54:069][101]LogSavePackage: Moving 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Lvl_ArenaShooter_Auto432C3BBAA417C8CFE0E97E6A77EEEC03C.tmp' to 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Autosaves/Game/Variant_Shooter/Lvl_ArenaShooter_Auto4.umap'
+[2025.07.16-20.22.54:070][101]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Variant_Shooter/Lvl_ArenaShooter' took 0.114
+[2025.07.16-20.22.54:070][101]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.114
