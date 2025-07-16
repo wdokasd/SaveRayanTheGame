@@ -8099,3 +8099,1631 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.16-14.27.48:702][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Shooter/Blueprints/Pickups/BP_AmmoPicup_Auto0
 [2025.07.16-14.27.48:702][270]LogSavePackage: Moving 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/BP_AmmoPicup_Auto0BC387DF0447B40DD607ACAA99553864E.tmp' to 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Autosaves/Game/Variant_Shooter/Blueprints/Pickups/BP_AmmoPicup_Auto0.uasset'
 [2025.07.16-14.27.48:703][270]LogFileHelpers: Auto-saving content packages took 0.125
+[2025.07.16-14.28.52:229][462]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.07.16-14.28.52:229][462]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.07.16-14.28.53:000][491]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.16-14.28.53:010][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.16-14.28.53:033][491]LogPlayLevel: Display: Creating online subsystem for client :Context_97
+[2025.07.16-14.28.53:035][491]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2025.07.16-14.28.53:060][492]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.28.53:085][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024340s)
+[2025.07.16-14.28.53:085][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.024400s)
+[2025.07.16-14.28.53:115][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.07.16-14.28.53:118][492]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.16-14.28.53:120][492]LogPlayLevel: PIE: World Init took: (0.002184s)
+[2025.07.16-14.28.53:121][492]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.07.16-14.28.53:121][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.16-14.28.53:121][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.16-14.28.53:121][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.16-14.28.53:121][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.16-14.28.53:121][492]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.16-14.28.53:121][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.16-14.28.53:121][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.16-14.28.53:121][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.16-14.28.53:121][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.16-14.28.53:121][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.16-14.28.53:121][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.16-14.28.53:123][492]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.16-14.28.53:139][492]LogAudioMixer: Display: Using Audio Hardware Device LCDTV16 (NVIDIA High Definition Audio)
+[2025.07.16-14.28.53:139][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.16-14.28.53:139][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.16-14.28.53:139][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.16-14.28.53:140][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.07.16-14.28.53:140][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.07.16-14.28.53:143][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.07.16-14.28.53:143][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.07.16-14.28.53:143][492]LogInit: FAudioDevice initialized with ID 40.
+[2025.07.16-14.28.53:143][492]LogAudio: Display: Audio Device (ID: 40) registered with world 'Lvl_ArenaShooter'.
+[2025.07.16-14.28.53:144][492]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.07.16-14.28.53:148][492]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.16-14.28.53:162][492]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.16-17.28.53
+[2025.07.16-14.28.53:164][492]LogWorld: Bringing up level for play took: 0.014812
+[2025.07.16-14.28.53:174][492]PIE: Server logged in
+[2025.07.16-14.28.53:177][492]PIE: Play in editor total start time 0.167 seconds.
+[2025.07.16-14.28.53:185][492]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Reload'
+[2025.07.16-14.29.10:723][964]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.10:974][983]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.29.10:974][983]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 40
+[2025.07.16-14.29.15:830][320]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:843][321]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:856][322]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:870][323]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:882][324]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:897][325]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:909][326]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:922][327]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:925][327]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:938][328]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:949][329]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:964][330]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:977][331]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.15:992][332]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:002][333]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:015][334]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:028][335]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:042][336]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:056][337]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:068][338]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:082][339]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:095][340]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:108][341]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:121][342]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:134][343]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:148][344]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:161][345]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:174][346]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:187][347]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:200][348]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:214][349]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:227][350]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:588][378]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:600][379]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:614][380]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:626][381]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:639][382]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:652][383]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:666][384]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.16:679][385]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.17:192][425]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.17:204][426]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.17:217][427]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.17:229][428]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.17:242][429]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.17:253][430]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.17:268][431]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.17:280][432]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.17:292][433]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.17:304][434]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.17:317][435]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.17:331][436]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.19:816][644]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 4
+[2025.07.16-14.29.19:816][644]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 80
+[2025.07.16-14.29.21:349][773]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:361][774]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:375][775]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:387][776]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:401][777]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:415][778]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:427][779]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:441][780]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:454][781]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:468][782]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:481][783]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:495][784]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:509][785]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:522][786]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:536][787]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:549][788]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:563][789]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:578][790]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:592][791]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:606][792]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:620][793]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:633][794]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:646][795]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:660][796]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:673][797]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:687][798]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:700][799]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:713][800]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:726][801]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.21:926][816]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.29.21:926][816]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 40
+[2025.07.16-14.29.26:166][108]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:179][109]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:194][110]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:446][129]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:459][130]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:471][131]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:485][132]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:498][133]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:513][134]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:525][135]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:539][136]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:551][137]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:564][138]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:579][139]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:592][140]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:605][141]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:619][142]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:632][143]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:645][144]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:659][145]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:672][146]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.26:992][170]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.29.26:992][170]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 0
+[2025.07.16-14.29.31:369][471]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:382][472]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:395][473]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:408][474]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:422][475]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:435][476]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:448][477]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:452][477]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:462][478]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:475][479]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:488][480]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:501][481]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:514][482]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:528][483]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:541][484]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:555][485]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:568][486]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:581][487]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:595][488]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:608][489]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:621][490]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:635][491]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:650][492]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:661][493]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:675][494]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:689][495]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:702][496]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:716][497]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:730][498]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:744][499]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:756][500]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:770][501]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:782][502]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:795][503]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:809][504]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:824][505]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:836][506]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:849][507]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:863][508]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:876][509]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.31:890][510]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:022][520]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:033][521]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:047][522]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:060][523]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:073][524]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:088][525]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:099][526]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:245][537]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.29.32:338][544]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:351][545]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:365][546]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:376][547]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:389][548]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:404][549]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:416][550]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.32:430][551]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.33:777][667]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 4
+[2025.07.16-14.29.33:777][667]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 40
+[2025.07.16-14.29.35:310][788]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:320][789]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:333][790]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:346][791]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:360][792]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:373][793]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:386][794]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:399][795]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:412][796]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:425][797]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:439][798]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:452][799]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:466][800]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:479][801]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:492][802]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:505][803]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:518][804]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:531][805]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:545][806]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:558][807]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:571][808]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:584][809]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:597][810]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:610][811]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:623][812]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:639][813]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:653][814]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:666][815]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.35:837][828]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.29.35:837][828]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 0
+[2025.07.16-14.29.39:988][111]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:002][112]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:014][113]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:028][114]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:041][115]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:055][116]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:067][117]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:070][117]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:081][118]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:095][119]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:108][120]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:120][121]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:134][122]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:146][123]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:160][124]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:173][125]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:186][126]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:199][127]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:212][128]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:226][129]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:239][130]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:253][131]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:266][132]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:279][133]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:293][134]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:306][135]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:319][136]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:332][137]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:346][138]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:359][139]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:372][140]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:385][141]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:399][142]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:412][143]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:426][144]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:439][145]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:451][146]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:465][147]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:478][148]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:492][149]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:758][169]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.29.40:946][183]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:957][184]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:970][185]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:984][186]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.40:998][187]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:011][188]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:026][189]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:037][190]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:051][191]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:064][192]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:078][193]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:092][194]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:104][195]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:119][196]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:133][197]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:145][198]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:159][199]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:172][200]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:184][201]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:197][202]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:211][203]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:225][204]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:240][205]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:252][206]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:265][207]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:278][208]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:414][218]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:425][219]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:439][220]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:451][221]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:465][222]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:479][223]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:637][235]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:650][236]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:664][237]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:677][238]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:691][239]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:704][240]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:717][241]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:730][242]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.29.41:731][242]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:744][243]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:876][253]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:888][254]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:902][255]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:914][256]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:928][257]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.29.41:928][257]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.41:942][258]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.42:885][328]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.42:897][329]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.42:911][330]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.42:925][331]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.42:938][332]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.42:948][333]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.42:962][334]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.42:974][335]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.42:987][336]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.42:999][337]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:013][338]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:025][339]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:038][340]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:052][341]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:065][342]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:077][343]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:089][344]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:102][345]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:114][346]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:478][375]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.29.43:581][383]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:590][384]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:603][385]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:615][386]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:628][387]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:641][388]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:654][389]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:666][390]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:681][391]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.29.43:681][391]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.43:694][392]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.44:251][438]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 4
+[2025.07.16-14.29.44:251][438]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 40
+[2025.07.16-14.29.45:288][517]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:298][518]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:313][519]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:327][520]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:342][521]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:353][522]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:367][523]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:380][524]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:394][525]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:407][526]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:421][527]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:434][528]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:447][529]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:461][530]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:475][531]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:490][532]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:502][533]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:516][534]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:529][535]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:543][536]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:557][537]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:569][538]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:583][539]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:596][540]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:609][541]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:622][542]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:636][543]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:649][544]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:664][545]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:679][546]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.29.45:843][558]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.29.45:843][558]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 0
+[2025.07.16-14.29.49:342][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.29.49:342][803]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.29.49:342][803]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.16-14.29.49:343][803]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.16-14.29.49:345][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.29.49:347][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.16-14.29.49:355][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.29.49:384][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.29.49:385][803]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.07.16-14.29.49:385][803]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=4
+[2025.07.16-14.29.49:387][803]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=2
+[2025.07.16-14.29.49:397][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.07.16-14.29.49:461][804]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2025.07.16-14.30.14:408][984]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2025.07.16-14.30.14:408][984]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2025.07.16-14.30.14:408][984]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.07.16-14.30.14:408][984]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2025.07.16-14.30.14:409][984]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.AOQuality:2]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.LumenScene.DirectLighting.MaxLightsPerTile:8]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.LumenScene.DirectLighting.UpdateFactor:32]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.LumenScene.Radiosity.UpdateFactor:64]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.NumAdaptiveProbes:8]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.BentNormal:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.MaxRoughnessToEvaluateRoughSpecularForFoliage:0.8]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.NumSamples:5]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.MinWeight:0]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.07.16-14.30.14:409][984]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.07.16-14.30.14:410][984]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2025.07.16-14.30.14:410][984]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.DetailMode:3]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:256]]
+[2025.07.16-14.30.14:410][984]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2025.07.16-14.30.14:410][984]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.07.16-14.30.14:410][984]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2025.07.16-14.30.14:410][984]LogConfig: Applying CVar settings from Section [LandscapeQuality@3] File [Scalability]
+[2025.07.16-14.30.14:454][984]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.07.16-14.30.19:222][988]LogContentStreaming: Texture pool size now 1000 MB
+[2025.07.16-14.30.19:222][988]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2025.07.16-14.30.26:258][ 14]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2025.07.16-14.30.26:258][ 14]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2025.07.16-14.30.26:258][ 14]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2025.07.16-14.30.26:258][ 14]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2025.07.16-14.30.26:258][ 14]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2025.07.16-14.30.26:258][ 14]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2025.07.16-14.30.26:258][ 14]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2025.07.16-14.30.26:258][ 14]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2025.07.16-14.30.26:258][ 14]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2025.07.16-14.30.26:258][ 14]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2025.07.16-14.30.26:258][ 14]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2025.07.16-14.30.26:258][ 14]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2025.07.16-14.30.26:258][ 14]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.AOQuality:1]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.DetailMode:1]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.07.16-14.30.26:259][ 14]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2025.07.16-14.30.26:259][ 14]LogConsoleManager: Warning: Setting the console variable 'r.HeterogeneousVolumes' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2025.07.16-14.30.26:260][ 14]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2025.07.16-14.30.26:260][ 14]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2025.07.16-14.30.26:260][ 14]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2025.07.16-14.30.26:260][ 14]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2025.07.16-14.30.26:260][ 14]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.07.16-14.30.26:260][ 14]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.07.16-14.30.26:260][ 14]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2025.07.16-14.30.27:087][ 14]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.07.16-14.30.27:126][ 15]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.07.16-14.30.27:132][ 16]LogContentStreaming: Texture pool size now 600 MB
+[2025.07.16-14.30.27:132][ 16]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="600"
+[2025.07.16-14.30.50:293][363]LogSlate: External Image Picker: DecompressImage failed
+[2025.07.16-14.32.42:377][117]LogTemp: Error: MSAA can't be used with Deferred Rendering. Resetting AA to None.
+[2025.07.16-14.32.49:075][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10341.348633
+[2025.07.16-14.32.49:282][577]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.16-14.32.49:282][577]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10341.541016, Update Interval: 319.422577
+[2025.07.16-14.32.52:467][790]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.16-14.32.52:478][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.16-14.32.52:478][790]LogPlayLevel: Display: Creating online subsystem for client :Context_98
+[2025.07.16-14.32.52:481][790]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2025.07.16-14.32.52:500][791]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.32.52:524][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023837s)
+[2025.07.16-14.32.52:524][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.023884s)
+[2025.07.16-14.32.52:556][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.07.16-14.32.52:561][791]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.16-14.32.52:564][791]LogPlayLevel: PIE: World Init took: (0.002252s)
+[2025.07.16-14.32.52:565][791]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.07.16-14.32.52:565][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.16-14.32.52:565][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.16-14.32.52:565][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.16-14.32.52:565][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.16-14.32.52:565][791]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.16-14.32.52:565][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.16-14.32.52:565][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.16-14.32.52:565][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.16-14.32.52:565][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.16-14.32.52:565][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.16-14.32.52:565][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.16-14.32.52:567][791]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.16-14.32.52:583][791]LogAudioMixer: Display: Using Audio Hardware Device LCDTV16 (NVIDIA High Definition Audio)
+[2025.07.16-14.32.52:583][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.16-14.32.52:583][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.16-14.32.52:583][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.16-14.32.52:584][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.07.16-14.32.52:584][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.07.16-14.32.52:586][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.07.16-14.32.52:586][791]LogInit: FAudioDevice initialized with ID 41.
+[2025.07.16-14.32.52:586][791]LogAudio: Display: Audio Device (ID: 41) registered with world 'Lvl_ArenaShooter'.
+[2025.07.16-14.32.52:586][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.07.16-14.32.52:586][791]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.07.16-14.32.52:591][791]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.16-14.32.52:605][791]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.16-17.32.52
+[2025.07.16-14.32.52:606][791]LogWorld: Bringing up level for play took: 0.014792
+[2025.07.16-14.32.52:616][791]PIE: Server logged in
+[2025.07.16-14.32.52:619][791]PIE: Play in editor total start time 0.141 seconds.
+[2025.07.16-14.32.52:627][791]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Reload'
+[2025.07.16-14.33.00:127][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.33.00:127][337]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.33.00:127][337]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.16-14.33.00:128][337]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.16-14.33.00:130][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.33.00:132][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.16-14.33.00:138][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.33.00:165][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.33.00:165][337]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.07.16-14.33.00:165][337]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2025.07.16-14.33.00:167][337]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2025.07.16-14.33.00:176][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.07.16-14.33.00:272][338]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2025.07.16-14.33.15:677][167]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.16-14.33.15:687][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.16-14.33.15:688][167]LogPlayLevel: Display: Creating online subsystem for client :Context_99
+[2025.07.16-14.33.15:690][167]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2025.07.16-14.33.15:708][168]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.33.15:731][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023335s)
+[2025.07.16-14.33.15:731][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.023380s)
+[2025.07.16-14.33.15:758][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.07.16-14.33.15:761][168]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.16-14.33.15:763][168]LogPlayLevel: PIE: World Init took: (0.001980s)
+[2025.07.16-14.33.15:764][168]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2025.07.16-14.33.15:764][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.16-14.33.15:764][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.16-14.33.15:764][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.16-14.33.15:764][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.16-14.33.15:764][168]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.16-14.33.15:764][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.16-14.33.15:764][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.16-14.33.15:764][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.16-14.33.15:764][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.16-14.33.15:764][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.16-14.33.15:764][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.16-14.33.15:766][168]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.16-14.33.15:781][168]LogAudioMixer: Display: Using Audio Hardware Device LCDTV16 (NVIDIA High Definition Audio)
+[2025.07.16-14.33.15:781][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.16-14.33.15:781][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.16-14.33.15:781][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.16-14.33.15:781][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2025.07.16-14.33.15:781][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2025.07.16-14.33.15:784][168]LogInit: FAudioDevice initialized with ID 42.
+[2025.07.16-14.33.15:784][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2025.07.16-14.33.15:784][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2025.07.16-14.33.15:784][168]LogAudio: Display: Audio Device (ID: 42) registered with world 'Lvl_ArenaShooter'.
+[2025.07.16-14.33.15:784][168]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2025.07.16-14.33.15:788][168]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.16-14.33.15:801][168]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.16-17.33.15
+[2025.07.16-14.33.15:802][168]LogWorld: Bringing up level for play took: 0.013960
+[2025.07.16-14.33.15:812][168]PIE: Server logged in
+[2025.07.16-14.33.15:814][168]PIE: Play in editor total start time 0.128 seconds.
+[2025.07.16-14.33.15:823][168]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Reload'
+[2025.07.16-14.33.35:216][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.33.35:216][411]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.33.35:216][411]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.16-14.33.35:216][411]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.16-14.33.35:219][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.33.35:220][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.16-14.33.35:228][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.33.35:256][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.33.35:257][411]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2025.07.16-14.33.35:257][411]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2025.07.16-14.33.35:259][411]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2025.07.16-14.33.35:268][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.07.16-14.33.35:365][412]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2025.07.16-14.33.40:438][729]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.16-14.33.40:449][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.16-14.33.40:450][729]LogPlayLevel: Display: Creating online subsystem for client :Context_100
+[2025.07.16-14.33.40:452][729]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2025.07.16-14.33.40:471][730]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.33.40:495][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024076s)
+[2025.07.16-14.33.40:495][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.024126s)
+[2025.07.16-14.33.40:522][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.07.16-14.33.40:525][730]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.16-14.33.40:527][730]LogPlayLevel: PIE: World Init took: (0.001994s)
+[2025.07.16-14.33.40:528][730]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2025.07.16-14.33.40:528][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.16-14.33.40:528][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.16-14.33.40:528][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.16-14.33.40:528][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.16-14.33.40:528][730]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.16-14.33.40:528][730]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.16-14.33.40:528][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.16-14.33.40:528][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.16-14.33.40:528][730]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.16-14.33.40:528][730]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.16-14.33.40:528][730]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.16-14.33.40:530][730]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.16-14.33.40:545][730]LogAudioMixer: Display: Using Audio Hardware Device LCDTV16 (NVIDIA High Definition Audio)
+[2025.07.16-14.33.40:546][730]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.16-14.33.40:546][730]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.16-14.33.40:546][730]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.16-14.33.40:546][730]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2025.07.16-14.33.40:546][730]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2025.07.16-14.33.40:549][730]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2025.07.16-14.33.40:549][730]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2025.07.16-14.33.40:549][730]LogInit: FAudioDevice initialized with ID 43.
+[2025.07.16-14.33.40:549][730]LogAudio: Display: Audio Device (ID: 43) registered with world 'Lvl_ArenaShooter'.
+[2025.07.16-14.33.40:549][730]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2025.07.16-14.33.40:553][730]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.16-14.33.40:567][730]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.16-17.33.40
+[2025.07.16-14.33.40:568][730]LogWorld: Bringing up level for play took: 0.014779
+[2025.07.16-14.33.40:577][730]PIE: Server logged in
+[2025.07.16-14.33.40:580][730]PIE: Play in editor total start time 0.132 seconds.
+[2025.07.16-14.33.40:588][730]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Reload'
+[2025.07.16-14.33.52:905][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.33.52:905][570]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.33.52:905][570]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.16-14.33.52:905][570]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.16-14.33.52:908][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.33.52:910][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.16-14.33.52:916][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.33.52:946][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.33.52:947][570]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2025.07.16-14.33.52:947][570]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2025.07.16-14.33.52:949][570]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2025.07.16-14.33.52:958][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.07.16-14.33.53:055][571]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2025.07.16-14.33.57:150][779]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2025.07.16-14.33.57:150][779]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2025.07.16-14.33.57:150][779]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2025.07.16-14.33.57:150][779]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2025.07.16-14.33.57:150][779]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2025.07.16-14.33.57:718][809]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2025.07.16-14.33.57:718][809]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2025.07.16-14.33.57:718][809]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2025.07.16-14.33.57:718][809]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2025.07.16-14.33.57:718][809]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2025.07.16-14.33.57:718][809]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2025.07.16-14.33.58:441][845]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2025.07.16-14.33.58:441][845]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2025.07.16-14.33.58:441][845]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2025.07.16-14.33.58:441][845]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2025.07.16-14.33.58:441][845]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2025.07.16-14.33.58:441][845]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2025.07.16-14.33.59:176][884]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2025.07.16-14.33.59:176][884]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2025.07.16-14.33.59:176][884]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2025.07.16-14.33.59:176][884]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2025.07.16-14.33.59:176][884]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2025.07.16-14.33.59:176][884]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2025.07.16-14.33.59:800][917]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2025.07.16-14.33.59:800][917]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2025.07.16-14.33.59:800][917]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2025.07.16-14.33.59:800][917]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2025.07.16-14.33.59:800][917]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2025.07.16-14.33.59:800][917]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.LumenScene.DirectLighting.MaxLightsPerTile:4]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.LumenScene.DirectLighting.UpdateFactor:64]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.LumenScene.Radiosity.UpdateFactor:128]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.NumAdaptiveProbes:16]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.BentNormal:0]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2025.07.16-14.34.02:200][ 44]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2025.07.16-14.34.03:476][ 85]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2025.07.16-14.34.03:476][ 85]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.07.16-14.34.04:009][112]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2025.07.16-14.34.04:009][112]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2025.07.16-14.34.06:038][200]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2025.07.16-14.34.06:038][200]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2025.07.16-14.34.06:038][200]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2025.07.16-14.34.06:562][225]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2025.07.16-14.34.06:562][225]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2025.07.16-14.34.06:562][225]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2025.07.16-14.34.10:055][381]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.16-14.34.10:066][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.16-14.34.10:066][381]LogPlayLevel: Display: Creating online subsystem for client :Context_101
+[2025.07.16-14.34.10:070][381]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2025.07.16-14.34.10:087][382]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.34.10:109][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021953s)
+[2025.07.16-14.34.10:109][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.021996s)
+[2025.07.16-14.34.10:139][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.07.16-14.34.10:141][382]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.16-14.34.10:143][382]LogPlayLevel: PIE: World Init took: (0.001883s)
+[2025.07.16-14.34.10:144][382]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.07.16-14.34.10:144][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.16-14.34.10:144][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.16-14.34.10:144][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.16-14.34.10:144][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.16-14.34.10:144][382]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.16-14.34.10:144][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.16-14.34.10:144][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.16-14.34.10:144][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.16-14.34.10:144][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.16-14.34.10:144][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.16-14.34.10:144][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.16-14.34.10:146][382]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.16-14.34.10:161][382]LogAudioMixer: Display: Using Audio Hardware Device LCDTV16 (NVIDIA High Definition Audio)
+[2025.07.16-14.34.10:161][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.16-14.34.10:161][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.16-14.34.10:161][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.16-14.34.10:162][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.07.16-14.34.10:162][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.07.16-14.34.10:165][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.07.16-14.34.10:165][382]LogInit: FAudioDevice initialized with ID 44.
+[2025.07.16-14.34.10:165][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.07.16-14.34.10:165][382]LogAudio: Display: Audio Device (ID: 44) registered with world 'Lvl_ArenaShooter'.
+[2025.07.16-14.34.10:165][382]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2025.07.16-14.34.10:169][382]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.16-14.34.10:183][382]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.16-17.34.10
+[2025.07.16-14.34.10:184][382]LogWorld: Bringing up level for play took: 0.015177
+[2025.07.16-14.34.10:194][382]PIE: Server logged in
+[2025.07.16-14.34.10:196][382]PIE: Play in editor total start time 0.131 seconds.
+[2025.07.16-14.34.10:205][382]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Reload'
+[2025.07.16-14.34.13:135][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.34.13:135][394]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.34.13:135][394]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.16-14.34.13:135][394]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.16-14.34.13:136][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.34.13:525][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.16-14.34.13:531][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.34.13:560][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.34.13:561][394]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2025.07.16-14.34.13:561][394]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2025.07.16-14.34.13:563][394]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2025.07.16-14.34.13:572][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.07.16-14.34.14:050][395]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2025.07.16-14.34.21:517][457]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2025.07.16-14.34.21:517][457]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.07.16-14.34.22:752][513]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2025.07.16-14.34.22:752][513]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2025.07.16-14.34.22:752][513]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2025.07.16-14.34.22:752][513]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2025.07.16-14.34.22:752][513]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.MaxRoughnessToEvaluateRoughSpecularForFoliage:0.4]]
+[2025.07.16-14.34.22:752][513]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.NumSamples:3]]
+[2025.07.16-14.34.22:752][513]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.MinWeight:1]]
+[2025.07.16-14.34.22:752][513]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2025.07.16-14.34.23:177][535]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2025.07.16-14.34.23:177][535]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2025.07.16-14.34.23:177][535]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2025.07.16-14.34.23:177][535]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2025.07.16-14.34.23:177][535]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2025.07.16-14.34.23:277][539]LogContentStreaming: Texture pool size now 800 MB
+[2025.07.16-14.34.23:277][539]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="800"
+[2025.07.16-14.34.23:646][558]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2025.07.16-14.34.23:647][558]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:96]]
+[2025.07.16-14.34.23:698][558]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.07.16-14.34.23:979][573]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2025.07.16-14.34.23:979][573]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2025.07.16-14.34.23:979][573]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2025.07.16-14.34.24:489][599]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2025.07.16-14.34.24:489][599]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.07.16-14.34.24:489][599]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2025.07.16-14.34.25:020][626]LogConfig: Applying CVar settings from Section [LandscapeQuality@2] File [Scalability]
+[2025.07.16-14.34.26:483][701]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2025.07.16-14.34.26:483][701]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2025.07.16-14.34.27:480][752]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2025.07.16-14.34.27:480][752]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2025.07.16-14.34.27:511][752]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.07.16-14.34.29:211][834]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.16-14.34.29:221][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.16-14.34.29:221][834]LogPlayLevel: Display: Creating online subsystem for client :Context_102
+[2025.07.16-14.34.29:224][834]LogOnline: OSS: Created online subsystem instance for: :Context_102
+[2025.07.16-14.34.29:243][835]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.34.29:266][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022742s)
+[2025.07.16-14.34.29:266][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.022791s)
+[2025.07.16-14.34.29:297][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.07.16-14.34.29:300][835]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.16-14.34.29:301][835]LogPlayLevel: PIE: World Init took: (0.001838s)
+[2025.07.16-14.34.29:303][835]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.07.16-14.34.29:303][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.16-14.34.29:303][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.16-14.34.29:303][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.16-14.34.29:303][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.16-14.34.29:303][835]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.16-14.34.29:303][835]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.16-14.34.29:303][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.16-14.34.29:303][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.16-14.34.29:303][835]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.16-14.34.29:303][835]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.16-14.34.29:303][835]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.16-14.34.29:305][835]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.16-14.34.29:320][835]LogAudioMixer: Display: Using Audio Hardware Device LCDTV16 (NVIDIA High Definition Audio)
+[2025.07.16-14.34.29:320][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.16-14.34.29:320][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.16-14.34.29:320][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.16-14.34.29:320][835]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.07.16-14.34.29:320][835]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.07.16-14.34.29:323][835]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.07.16-14.34.29:323][835]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.07.16-14.34.29:323][835]LogInit: FAudioDevice initialized with ID 45.
+[2025.07.16-14.34.29:323][835]LogAudio: Display: Audio Device (ID: 45) registered with world 'Lvl_ArenaShooter'.
+[2025.07.16-14.34.29:323][835]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2025.07.16-14.34.29:328][835]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.16-14.34.29:340][835]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.16-17.34.29
+[2025.07.16-14.34.29:341][835]LogWorld: Bringing up level for play took: 0.013492
+[2025.07.16-14.34.29:351][835]PIE: Server logged in
+[2025.07.16-14.34.29:353][835]PIE: Play in editor total start time 0.132 seconds.
+[2025.07.16-14.34.29:362][835]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Reload'
+[2025.07.16-14.34.32:865][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.34.32:865][873]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.34.32:865][873]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.16-14.34.32:865][873]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.16-14.34.32:867][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.34.33:284][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.16-14.34.33:291][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.34.33:319][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.34.33:320][873]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2025.07.16-14.34.33:320][873]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=4
+[2025.07.16-14.34.33:322][873]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=2
+[2025.07.16-14.34.33:331][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.07.16-14.34.33:802][874]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: ================================================
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Total job queries 473, among them cache hits 48 (10.15%), DDC hits 351 (74.21%), Duplicates 69 (14.59%)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Tracking 356 distinct input hashes that result in 264 distinct outputs (74.16%)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: RAM used: 3.39 MiB of 819.20 MiB budget. Usage: 0.41%
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Average time worker was idle: 2363.57 s
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Job execution time: average 2.30 s, max 4.37 s
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Job life time (pending + execution): average 2.35 s, max 4.39
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Shader code size: total 39.266 KiB, numShaders 5, average 7.853 KiB, min 5.133 KiB, max 11.973 KiB
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.87 s
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Average processing rate: 0.73 jobs/sec
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Total thread time: 3.866 s
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Total thread preprocess time: 7.381 s
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Percentage time preprocessing: 190.92%
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Effective parallelization: 0.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 2 - 0.281304
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 55.94% of total time (compiled    2 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.16% of total time (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.45% of total time (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.45% of total time (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: === Material stats ===
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Materials Translated:    152
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Material Translation Only: 0.05 s (42%)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: Material Cache Hits: 26 (17%)
+[2025.07.16-14.34.37:584][892]LogShaderCompilers: Display: ================================================
+[2025.07.16-14.34.40:122][914]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.07.16-14.34.40:122][914]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.07.16-14.34.40:398][915]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.07.16-14.34.41:582][926]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.07.16-14.34.41:582][926]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.07.16-14.34.43:897][996]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2025.07.16-14.34.43:897][996]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.07.16-14.34.43:897][996]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.07.16-14.34.51:374][379]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.16-14.34.51:385][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.16-14.34.51:385][379]LogPlayLevel: Display: Creating online subsystem for client :Context_103
+[2025.07.16-14.34.51:388][379]LogOnline: OSS: Created online subsystem instance for: :Context_103
+[2025.07.16-14.34.51:407][380]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.34.51:429][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022673s)
+[2025.07.16-14.34.51:429][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.022719s)
+[2025.07.16-14.34.51:458][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.07.16-14.34.51:460][380]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.16-14.34.51:462][380]LogPlayLevel: PIE: World Init took: (0.001977s)
+[2025.07.16-14.34.51:463][380]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.07.16-14.34.51:463][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.16-14.34.51:463][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.16-14.34.51:463][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.16-14.34.51:463][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.16-14.34.51:463][380]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.16-14.34.51:463][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.16-14.34.51:463][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.16-14.34.51:463][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.16-14.34.51:463][380]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.16-14.34.51:463][380]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.16-14.34.51:463][380]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.16-14.34.51:465][380]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.16-14.34.51:481][380]LogAudioMixer: Display: Using Audio Hardware Device LCDTV16 (NVIDIA High Definition Audio)
+[2025.07.16-14.34.51:481][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.16-14.34.51:481][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.16-14.34.51:481][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.16-14.34.51:481][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2025.07.16-14.34.51:481][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2025.07.16-14.34.51:484][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2025.07.16-14.34.51:484][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2025.07.16-14.34.51:484][380]LogInit: FAudioDevice initialized with ID 46.
+[2025.07.16-14.34.51:484][380]LogAudio: Display: Audio Device (ID: 46) registered with world 'Lvl_ArenaShooter'.
+[2025.07.16-14.34.51:484][380]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2025.07.16-14.34.51:488][380]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.16-14.34.51:501][380]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.16-17.34.51
+[2025.07.16-14.34.51:502][380]LogWorld: Bringing up level for play took: 0.013559
+[2025.07.16-14.34.51:511][380]PIE: Server logged in
+[2025.07.16-14.34.51:514][380]PIE: Play in editor total start time 0.129 seconds.
+[2025.07.16-14.34.51:522][380]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Reload'
+[2025.07.16-14.35.10:801][680]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.10:815][681]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.10:829][682]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.10:844][683]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.10:858][684]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.10:873][685]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.10:889][686]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.10:991][693]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.11:008][694]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.11:023][695]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.11:038][696]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.11:052][697]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.11:066][698]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.11:112][699]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] No Ammo
+[2025.07.16-14.35.11:185][705]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] Reload
+[2025.07.16-14.35.11:185][705]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 90
+[2025.07.16-14.35.11:384][718]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] Reload
+[2025.07.16-14.35.11:384][718]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 80
+[2025.07.16-14.35.11:624][733]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] Reload
+[2025.07.16-14.35.11:624][733]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 70
+[2025.07.16-14.35.11:785][744]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] Reload
+[2025.07.16-14.35.11:785][744]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 60
+[2025.07.16-14.35.11:992][757]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] Reload
+[2025.07.16-14.35.11:992][757]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 50
+[2025.07.16-14.35.12:142][766]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] Reload
+[2025.07.16-14.35.12:142][766]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 40
+[2025.07.16-14.35.12:302][777]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] Reload
+[2025.07.16-14.35.12:302][777]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 30
+[2025.07.16-14.35.12:437][785]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] Reload
+[2025.07.16-14.35.12:437][785]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 20
+[2025.07.16-14.35.12:613][797]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] Reload
+[2025.07.16-14.35.12:613][797]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 10
+[2025.07.16-14.35.12:782][807]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] Reload
+[2025.07.16-14.35.12:782][807]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 0
+[2025.07.16-14.35.13:062][825]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] Reload
+[2025.07.16-14.35.13:227][835]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] Reload
+[2025.07.16-14.35.16:554][ 86]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 4
+[2025.07.16-14.35.16:554][ 86]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 10
+[2025.07.16-14.35.17:089][128]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 4
+[2025.07.16-14.35.17:089][128]LogBlueprintUserMessages: [BP_Weapon_Pistol_C_1] 20
+[2025.07.16-14.35.17:773][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.35.17:773][178]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.35.17:773][178]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.16-14.35.17:773][178]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.16-14.35.17:775][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.35.17:777][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.16-14.35.17:784][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.35.17:812][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.35.17:813][178]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2025.07.16-14.35.17:813][178]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=4
+[2025.07.16-14.35.17:815][178]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=2
+[2025.07.16-14.35.17:825][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.07.16-14.35.17:922][179]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2025.07.16-14.35.27:872][376]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase.BP_WeaponBase
+[2025.07.16-14.35.27:873][376]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2025.07.16-14.36.30:110][316]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.07.16-14.36.30:110][316]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.07.16-14.36.31:307][369]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.07.16-14.36.31:307][369]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.07.16-14.36.38:430][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.07.16-14.36.40:282][793]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.16-14.36.40:292][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.16-14.36.40:292][793]LogPlayLevel: Display: Creating online subsystem for client :Context_105
+[2025.07.16-14.36.40:295][793]LogOnline: OSS: Created online subsystem instance for: :Context_105
+[2025.07.16-14.36.40:313][794]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.36.40:336][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022864s)
+[2025.07.16-14.36.40:336][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.022908s)
+[2025.07.16-14.36.40:367][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.07.16-14.36.40:372][794]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.16-14.36.40:374][794]LogPlayLevel: PIE: World Init took: (0.001937s)
+[2025.07.16-14.36.40:375][794]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2025.07.16-14.36.40:375][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.16-14.36.40:375][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.16-14.36.40:375][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.16-14.36.40:375][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.16-14.36.40:375][794]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.16-14.36.40:375][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.16-14.36.40:375][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.16-14.36.40:375][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.16-14.36.40:375][794]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.16-14.36.40:375][794]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.16-14.36.40:375][794]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.16-14.36.40:377][794]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.16-14.36.40:392][794]LogAudioMixer: Display: Using Audio Hardware Device LCDTV16 (NVIDIA High Definition Audio)
+[2025.07.16-14.36.40:393][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.16-14.36.40:393][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.16-14.36.40:393][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.16-14.36.40:393][794]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2025.07.16-14.36.40:393][794]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2025.07.16-14.36.40:396][794]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2025.07.16-14.36.40:396][794]LogInit: FAudioDevice initialized with ID 47.
+[2025.07.16-14.36.40:396][794]LogAudio: Display: Audio Device (ID: 47) registered with world 'Lvl_ArenaShooter'.
+[2025.07.16-14.36.40:396][794]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2025.07.16-14.36.40:396][794]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2025.07.16-14.36.40:400][794]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.16-14.36.40:413][794]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.16-17.36.40
+[2025.07.16-14.36.40:414][794]LogWorld: Bringing up level for play took: 0.014064
+[2025.07.16-14.36.40:424][794]PIE: Server logged in
+[2025.07.16-14.36.40:426][794]PIE: Play in editor total start time 0.134 seconds.
+[2025.07.16-14.36.40:434][794]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Reload'
+[2025.07.16-14.36.46:190][215]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.36.46:190][215]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 40
+[2025.07.16-14.36.46:560][241]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.36.46:560][241]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 0
+[2025.07.16-14.36.47:081][278]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.36.47:500][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.36.47:500][305]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.36.47:500][305]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.16-14.36.47:500][305]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.16-14.36.47:503][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.36.47:504][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.16-14.36.47:511][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.36.47:541][305]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.16-14.36.47:541][305]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2025.07.16-14.36.47:541][305]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47, StreamState=4
+[2025.07.16-14.36.47:543][305]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47, StreamState=2
+[2025.07.16-14.36.47:547][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.36.47:552][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.07.16-14.36.47:647][306]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2025.07.16-14.36.56:184][610]LogEditorTransaction: Undo Delete current selection
+[2025.07.16-14.37.04:469][994]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.07.16-14.37.04:469][994]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.07.16-14.37.05:385][ 39]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.07.16-14.37.05:385][ 39]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.07.16-14.37.11:683][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.07.16-14.37.13:748][450]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.16-14.37.13:758][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.16-14.37.13:759][450]LogPlayLevel: Display: Creating online subsystem for client :Context_106
+[2025.07.16-14.37.13:762][450]LogOnline: OSS: Created online subsystem instance for: :Context_106
+[2025.07.16-14.37.13:779][451]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.37.13:804][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024869s)
+[2025.07.16-14.37.13:804][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.024913s)
+[2025.07.16-14.37.13:836][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.07.16-14.37.13:841][451]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.16-14.37.13:843][451]LogPlayLevel: PIE: World Init took: (0.001831s)
+[2025.07.16-14.37.13:844][451]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2025.07.16-14.37.13:844][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.16-14.37.13:844][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.16-14.37.13:844][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.16-14.37.13:844][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.16-14.37.13:844][451]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.16-14.37.13:844][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.16-14.37.13:844][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.16-14.37.13:844][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.16-14.37.13:844][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.16-14.37.13:844][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.16-14.37.13:844][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.16-14.37.13:846][451]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.16-14.37.13:861][451]LogAudioMixer: Display: Using Audio Hardware Device LCDTV16 (NVIDIA High Definition Audio)
+[2025.07.16-14.37.13:861][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.16-14.37.13:861][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.16-14.37.13:861][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.16-14.37.13:861][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2025.07.16-14.37.13:861][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2025.07.16-14.37.13:864][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2025.07.16-14.37.13:864][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2025.07.16-14.37.13:864][451]LogInit: FAudioDevice initialized with ID 48.
+[2025.07.16-14.37.13:864][451]LogAudio: Display: Audio Device (ID: 48) registered with world 'Lvl_ArenaShooter'.
+[2025.07.16-14.37.13:864][451]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2025.07.16-14.37.13:868][451]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.16-14.37.13:881][451]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.16-17.37.13
+[2025.07.16-14.37.13:882][451]LogWorld: Bringing up level for play took: 0.013966
+[2025.07.16-14.37.13:892][451]PIE: Server logged in
+[2025.07.16-14.37.13:894][451]PIE: Play in editor total start time 0.136 seconds.
+[2025.07.16-14.37.13:902][451]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Reload'
+[2025.07.16-14.37.19:965][898]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.19:965][898]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 40
+[2025.07.16-14.37.20:265][919]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.20:265][919]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 0
+[2025.07.16-14.37.20:522][937]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.20:785][955]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.21:028][972]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.21:242][987]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.21:429][  0]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.23:881][151]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.24:596][195]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.24:783][208]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.25:357][245]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.25:631][264]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.26:926][342]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.26:940][343]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.26:955][344]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.26:969][345]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.26:984][346]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.26:998][347]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.27:012][348]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.27:014][348]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.27:026][349]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.27:041][350]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.27:055][351]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.27:070][352]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.27:084][353]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.27:099][354]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.27:271][366]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.27:473][380]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.27:675][394]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.27:865][407]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.28:010][417]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:023][418]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:037][419]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.37.28:037][419]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:052][420]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:067][421]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:081][422]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:097][423]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:184][429]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:198][430]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:212][431]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:226][432]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:241][433]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:256][434]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:271][435]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:361][441]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:372][442]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:388][443]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:402][444]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:417][445]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:432][446]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:446][447]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:564][455]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:577][456]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:594][457]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.37.28:690][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.37.28:690][461]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.37.28:690][461]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.16-14.37.28:690][461]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.16-14.37.28:693][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.37.28:695][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.16-14.37.28:701][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.37.28:730][461]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.16-14.37.28:730][461]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2025.07.16-14.37.28:730][461]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48, StreamState=4
+[2025.07.16-14.37.28:732][461]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48, StreamState=2
+[2025.07.16-14.37.28:736][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.37.28:742][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.07.16-14.37.28:838][462]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2025.07.16-14.38.30:044][409]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.07.16-14.38.30:044][409]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.07.16-14.38.32:741][539]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.07.16-14.38.32:741][539]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.07.16-14.38.34:984][647]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.07.16-14.38.34:984][647]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.07.16-14.38.46:336][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.07.16-14.38.48:173][269]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.16-14.38.48:183][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.16-14.38.48:183][269]LogPlayLevel: Display: Creating online subsystem for client :Context_107
+[2025.07.16-14.38.48:186][269]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2025.07.16-14.38.48:204][270]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.38.48:226][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022296s)
+[2025.07.16-14.38.48:226][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.022344s)
+[2025.07.16-14.38.48:256][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.07.16-14.38.48:261][270]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.16-14.38.48:263][270]LogPlayLevel: PIE: World Init took: (0.001944s)
+[2025.07.16-14.38.48:264][270]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2025.07.16-14.38.48:264][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.16-14.38.48:264][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.16-14.38.48:264][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.16-14.38.48:264][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.16-14.38.48:264][270]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.16-14.38.48:264][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.16-14.38.48:264][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.16-14.38.48:264][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.16-14.38.48:264][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.16-14.38.48:264][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.16-14.38.48:264][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.16-14.38.48:266][270]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.16-14.38.48:282][270]LogAudioMixer: Display: Using Audio Hardware Device LCDTV16 (NVIDIA High Definition Audio)
+[2025.07.16-14.38.48:282][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.16-14.38.48:282][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.16-14.38.48:282][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.16-14.38.48:283][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2025.07.16-14.38.48:283][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2025.07.16-14.38.48:285][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2025.07.16-14.38.48:285][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2025.07.16-14.38.48:285][270]LogInit: FAudioDevice initialized with ID 49.
+[2025.07.16-14.38.48:285][270]LogAudio: Display: Audio Device (ID: 49) registered with world 'Lvl_ArenaShooter'.
+[2025.07.16-14.38.48:285][270]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2025.07.16-14.38.48:289][270]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.16-14.38.48:303][270]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.16-17.38.48
+[2025.07.16-14.38.48:304][270]LogWorld: Bringing up level for play took: 0.014373
+[2025.07.16-14.38.48:314][270]PIE: Server logged in
+[2025.07.16-14.38.48:316][270]PIE: Play in editor total start time 0.133 seconds.
+[2025.07.16-14.38.48:325][270]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Reload'
+[2025.07.16-14.38.53:522][646]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.53:736][661]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.53:904][673]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.54:073][685]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.54:241][697]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.54:424][710]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.54:653][726]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.55:953][810]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.56:145][826]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.56:323][841]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.56:485][854]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.56:665][869]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.56:832][883]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.57:016][897]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.57:210][913]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.57:899][969]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.58:078][984]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.38.58:252][998]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.39.00:619][179]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.39.00:811][192]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.39.00:978][203]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.39.03:941][395]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.03:955][396]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.03:971][397]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.03:985][398]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.03:999][399]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.04:014][400]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.04:028][401]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.04:030][401]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.04:043][402]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.04:412][428]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.39.04:412][428]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 40
+[2025.07.16-14.39.06:156][537]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 4
+[2025.07.16-14.39.06:156][537]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 80
+[2025.07.16-14.39.06:666][575]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 4
+[2025.07.16-14.39.06:666][575]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 120
+[2025.07.16-14.39.06:716][578]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10719.067383
+[2025.07.16-14.39.06:925][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.16-14.39.06:925][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10719.263672, Update Interval: 330.010071
+[2025.07.16-14.39.07:159][610]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 4
+[2025.07.16-14.39.07:159][610]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 160
+[2025.07.16-14.39.08:468][695]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.39.10:816][836]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.10:830][837]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.10:845][838]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.10:859][839]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.10:874][840]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.10:890][841]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.11:021][850]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.39.11:021][850]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 120
+[2025.07.16-14.39.15:243][ 97]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.15:258][ 98]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.15:650][125]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] No Ammo
+[2025.07.16-14.39.15:664][126]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reload
+[2025.07.16-14.39.15:664][126]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 80
+[2025.07.16-14.39.16:997][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.39.16:997][202]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.39.16:997][202]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.16-14.39.16:998][202]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.16-14.39.17:001][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.39.17:003][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.16-14.39.17:010][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.39.17:038][202]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.16-14.39.17:040][202]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2025.07.16-14.39.17:040][202]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49, StreamState=4
+[2025.07.16-14.39.17:042][202]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49, StreamState=2
+[2025.07.16-14.39.17:046][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.39.17:052][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.07.16-14.39.17:156][203]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2025.07.16-14.39.38:903][126]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.07.16-14.39.38:903][126]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.07.16-14.40.08:428][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.07.16-14.40.10:490][572]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.16-14.40.10:500][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.16-14.40.10:500][572]LogPlayLevel: Display: Creating online subsystem for client :Context_108
+[2025.07.16-14.40.10:504][572]LogOnline: OSS: Created online subsystem instance for: :Context_108
+[2025.07.16-14.40.10:520][573]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.40.10:543][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023006s)
+[2025.07.16-14.40.10:543][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.023049s)
+[2025.07.16-14.40.10:573][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.07.16-14.40.10:578][573]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.16-14.40.10:580][573]LogPlayLevel: PIE: World Init took: (0.001883s)
+[2025.07.16-14.40.10:581][573]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2025.07.16-14.40.10:581][573]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.16-14.40.10:581][573]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.16-14.40.10:581][573]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.16-14.40.10:581][573]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.16-14.40.10:581][573]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.16-14.40.10:581][573]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.16-14.40.10:581][573]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.16-14.40.10:581][573]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.16-14.40.10:581][573]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.16-14.40.10:581][573]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.16-14.40.10:581][573]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.16-14.40.10:583][573]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.16-14.40.10:598][573]LogAudioMixer: Display: Using Audio Hardware Device LCDTV16 (NVIDIA High Definition Audio)
+[2025.07.16-14.40.10:598][573]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.16-14.40.10:598][573]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.16-14.40.10:598][573]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.16-14.40.10:599][573]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2025.07.16-14.40.10:599][573]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2025.07.16-14.40.10:601][573]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2025.07.16-14.40.10:601][573]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2025.07.16-14.40.10:601][573]LogInit: FAudioDevice initialized with ID 50.
+[2025.07.16-14.40.10:601][573]LogAudio: Display: Audio Device (ID: 50) registered with world 'Lvl_ArenaShooter'.
+[2025.07.16-14.40.10:601][573]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2025.07.16-14.40.10:606][573]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.16-14.40.10:618][573]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.16-17.40.10
+[2025.07.16-14.40.10:620][573]LogWorld: Bringing up level for play took: 0.014064
+[2025.07.16-14.40.10:630][573]PIE: Server logged in
+[2025.07.16-14.40.10:632][573]PIE: Play in editor total start time 0.133 seconds.
+[2025.07.16-14.40.10:641][573]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Reload'
+[2025.07.16-14.40.20:873][248]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 40
+[2025.07.16-14.40.20:874][248]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reloaded
+[2025.07.16-14.40.25:648][527]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 0
+[2025.07.16-14.40.25:648][527]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reloaded
+[2025.07.16-14.40.33:671][ 41]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 4
+[2025.07.16-14.40.33:671][ 41]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 40
+[2025.07.16-14.40.35:871][196]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 0
+[2025.07.16-14.40.35:871][196]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reloaded
+[2025.07.16-14.40.40:664][496]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 4
+[2025.07.16-14.40.40:664][496]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 40
+[2025.07.16-14.40.44:095][719]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] 0
+[2025.07.16-14.40.44:095][719]LogBlueprintUserMessages: [BP_Weapon_Rifle_C_1] Reloaded
+[2025.07.16-14.40.48:895][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.40.48:895][999]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.16-14.40.48:895][999]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.16-14.40.48:896][999]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.16-14.40.48:899][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.40.48:901][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.16-14.40.48:909][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.16-14.40.48:938][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.16-14.40.48:939][999]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2025.07.16-14.40.48:939][999]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50, StreamState=4
+[2025.07.16-14.40.48:941][999]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50, StreamState=2
+[2025.07.16-14.40.48:945][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.16-14.40.48:952][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.07.16-14.40.49:047][  0]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2025.07.16-14.41.27:008][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.07.16-14.41.27:067][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Shooter/Lvl_ArenaShooter_Auto1
+[2025.07.16-14.41.27:067][122]LogSavePackage: Moving 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Lvl_ArenaShooter_Auto17AF40303402D7D703148F58622BDC485.tmp' to 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Autosaves/Game/Variant_Shooter/Lvl_ArenaShooter_Auto1.umap'
+[2025.07.16-14.41.27:069][122]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Variant_Shooter/Lvl_ArenaShooter' took 0.091
+[2025.07.16-14.41.27:069][122]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2025.07.16-14.41.27:069][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter] ([2] browsable assets)...
+[2025.07.16-14.41.27:226][122]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter.BP_FPShooter]
+[2025.07.16-14.41.27:226][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter]
+[2025.07.16-14.41.27:301][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter_Auto1
+[2025.07.16-14.41.27:301][122]LogSavePackage: Moving 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/BP_FPShooter_Auto18AF2F5654D1DE96A49AE7688A5838FBC.tmp' to 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Autosaves/Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter_Auto1.uasset'
+[2025.07.16-14.41.27:302][122]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase] ([2] browsable assets)...
+[2025.07.16-14.41.27:346][122]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase.BP_WeaponBase]
+[2025.07.16-14.41.27:346][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase]
+[2025.07.16-14.41.27:398][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase_Auto1
+[2025.07.16-14.41.27:398][122]LogSavePackage: Moving 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/BP_WeaponBase_Auto1D91DB9A24C44D57158769E9D9A34E3FB.tmp' to 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Autosaves/Game/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase_Auto1.uasset'
+[2025.07.16-14.41.27:400][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Shooter/Input/IMC_Weapons] ([1] browsable assets)...
+[2025.07.16-14.41.27:400][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Input/IMC_Weapons]
+[2025.07.16-14.41.27:410][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Shooter/Input/IMC_Weapons_Auto1
+[2025.07.16-14.41.27:410][122]LogSavePackage: Moving 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/IMC_Weapons_Auto1631B4527433A0233FF16FF87AB370D19.tmp' to 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Autosaves/Game/Variant_Shooter/Input/IMC_Weapons_Auto1.uasset'
+[2025.07.16-14.41.27:412][122]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Variant_Shooter/Blueprints/Pickups/Rifle/BP_Weapon_Rifle] ([2] browsable assets)...
+[2025.07.16-14.41.27:480][122]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Shooter/Blueprints/Pickups/Rifle/BP_Weapon_Rifle.BP_Weapon_Rifle]
+[2025.07.16-14.41.27:481][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/Pickups/Rifle/BP_Weapon_Rifle]
+[2025.07.16-14.41.27:493][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Shooter/Blueprints/Pickups/Rifle/BP_Weapon_Rifle_Auto1
+[2025.07.16-14.41.27:493][122]LogSavePackage: Moving 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/BP_Weapon_Rifle_Auto18FCE29E74545EDAE2D30328F385E90F1.tmp' to 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Autosaves/Game/Variant_Shooter/Blueprints/Pickups/Rifle/BP_Weapon_Rifle_Auto1.uasset'
+[2025.07.16-14.41.27:494][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Shooter/Blueprints/Pickups/Pistol/BP_Weapon_Pistol] ([2] browsable assets)...
+[2025.07.16-14.41.27:494][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/Pickups/Pistol/BP_Weapon_Pistol]
+[2025.07.16-14.41.27:506][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Shooter/Blueprints/Pickups/Pistol/BP_Weapon_Pistol_Auto1
+[2025.07.16-14.41.27:506][122]LogSavePackage: Moving 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/BP_Weapon_Pistol_Auto156B3D7B84EACB554BD3015948181D63B.tmp' to 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Autosaves/Game/Variant_Shooter/Blueprints/Pickups/Pistol/BP_Weapon_Pistol_Auto1.uasset'
+[2025.07.16-14.41.27:506][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Shooter/Input/Actions/IA_Reload] ([1] browsable assets)...
+[2025.07.16-14.41.27:506][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Input/Actions/IA_Reload]
+[2025.07.16-14.41.27:514][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Shooter/Input/Actions/IA_Reload_Auto1
+[2025.07.16-14.41.27:515][122]LogSavePackage: Moving 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/IA_Reload_Auto1EA276861419BA6FC31AA038BBE103379.tmp' to 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Autosaves/Game/Variant_Shooter/Input/Actions/IA_Reload_Auto1.uasset'
+[2025.07.16-14.41.27:516][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Shooter/Blueprints/Pickups/GrenadeLauncher/BP_Weapon_GrenadeLauncher] ([2] browsable assets)...
+[2025.07.16-14.41.27:516][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/Pickups/GrenadeLauncher/BP_Weapon_GrenadeLauncher]
+[2025.07.16-14.41.27:528][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Shooter/Blueprints/Pickups/GrenadeLauncher/BP_Weapon_GrenadeLauncher_Auto1
+[2025.07.16-14.41.27:528][122]LogSavePackage: Moving 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/BP_Weapon_GrenadeLauncher_Auto1F4594A7C41E582F9A113969B138B5D30.tmp' to 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Autosaves/Game/Variant_Shooter/Blueprints/Pickups/GrenadeLauncher/BP_Weapon_GrenadeLauncher_Auto1.uasset'
+[2025.07.16-14.41.27:529][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Shooter/Blueprints/Pickups/BP_AmmoPicup] ([2] browsable assets)...
+[2025.07.16-14.41.27:529][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/Pickups/BP_AmmoPicup]
+[2025.07.16-14.41.27:543][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Shooter/Blueprints/Pickups/BP_AmmoPicup_Auto1
+[2025.07.16-14.41.27:543][122]LogSavePackage: Moving 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/BP_AmmoPicup_Auto105976E01419576F5F58A75BF0F24CE1C.tmp' to 'C:/Users/glas7/Documents/Unreal Projects/SaveRayanTheGame/SaveRayanREMAKE/Saved/Autosaves/Game/Variant_Shooter/Blueprints/Pickups/BP_AmmoPicup_Auto1.uasset'
+[2025.07.16-14.41.27:544][122]LogFileHelpers: Auto-saving content packages took 0.475
+[2025.07.16-14.41.48:255][186]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.07.16-14.41.48:255][186]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
