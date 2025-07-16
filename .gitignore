@@ -72,8 +72,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore log files
+SaveRayanREMAKE/Saved/Logs/
 SaveRayanREMAKE/Saved/webcache_4430/Cache/data_0
+*.log
+SaveRayanREMAKE/Saved/Logs/SaveRayanREMAKE.log
 SaveRayanREMAKE/Saved/webcache_4430/Cache/data_1
 SaveRayanREMAKE/Saved/webcache_4430/Cache/data_2
 SaveRayanREMAKE/Saved/webcache_4430/Cache/data_3
 SaveRayanREMAKE/Saved/webcache_4430/Cache/index
+SaveRayanREMAKE/Saved/Logs/SaveRayanREMAKE.log
+SaveRayanREMAKE/Saved/Logs/SaveRayanREMAKE.log
