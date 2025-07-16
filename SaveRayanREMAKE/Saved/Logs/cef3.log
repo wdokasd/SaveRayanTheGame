@@ -1,0 +1,18 @@
+[0716/222308.972:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0716/225157.786:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 43
+[0716/225158.828:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0716/225158.898:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(125,1): warning X4000: use of potentially uninitialized variable (f_mainImage)
+
+[0716/225158.984:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0716/225159.280:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0716/225201.494:ERROR:gl_utils.cc(314)] [.WebGL-000006A081292900] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0716/225201.502:ERROR:gl_utils.cc(314)] [.WebGL-000006A081292900] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
