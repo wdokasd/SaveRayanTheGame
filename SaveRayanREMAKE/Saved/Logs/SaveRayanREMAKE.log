@@ -2692,3 +2692,79 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.15-12.01.21:545][ 19]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2893.561035
 [2025.08.15-12.01.22:545][ 21]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.15-12.01.22:545][ 21]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2894.231934, Update Interval: 313.017365
+[2025.08.15-12.07.14:764][ 77]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3246.780762
+[2025.08.15-12.07.15:764][ 81]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.15-12.07.15:764][ 81]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3247.446533, Update Interval: 307.273163
+[2025.08.15-12.13.16:408][162]LogDerivedDataCache: C:/Users/glas7/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.012 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.15-12.13.21:400][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3613.413818
+[2025.08.15-12.13.22:402][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.15-12.13.22:402][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3614.081787, Update Interval: 352.600494
+[2025.08.15-12.19.46:048][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3998.059082
+[2025.08.15-12.19.47:048][332]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.15-12.19.47:048][332]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3998.725098, Update Interval: 359.058807
+[2025.08.15-12.26.19:953][510]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4391.971191
+[2025.08.15-12.26.20:955][513]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.15-12.26.20:955][513]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4392.638184, Update Interval: 330.982391
+[2025.08.15-12.32.32:742][627]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4764.755859
+[2025.08.15-12.32.33:739][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.15-12.32.33:739][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4765.419434, Update Interval: 326.452209
+[2025.08.15-12.38.35:492][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5127.503906
+[2025.08.15-12.38.36:487][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.15-12.38.36:487][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5128.170410, Update Interval: 334.895477
+[2025.08.15-12.45.07:274][890]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5519.283203
+[2025.08.15-12.45.08:278][893]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.15-12.45.08:278][893]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5519.951660, Update Interval: 336.638702
+[2025.08.15-12.51.38:739][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5910.742676
+[2025.08.15-12.51.39:739][ 67]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.15-12.51.39:739][ 67]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5911.409180, Update Interval: 308.602570
+[2025.08.15-12.57.41:217][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6273.221191
+[2025.08.15-12.57.42:208][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.15-12.57.42:208][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6273.879395, Update Interval: 304.293945
+[2025.08.15-13.03.17:648][160]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6609.650391
+[2025.08.15-13.03.18:635][163]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.15-13.03.18:635][163]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6610.307129, Update Interval: 350.950653
+[2025.08.15-13.06.37:462][758]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.08.15-13.06.37:592][758]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.08.15-13.06.53:169][ 40]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.15-13.06.53:190][ 40]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.15-13.06.53:210][ 42]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.15-13.06.54:224][135]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.08.15-13.06.54:224][135]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.08.15-13.06.58:326][566]LogContentBrowser: Attempting asset rename: NewFolder -> Structure
+[2025.08.15-13.06.58:346][566]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.15-13.07.04:097][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2025.08.15-13.07.06:439][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.08.15-13.07.06:737][322]LogStall: Shutdown...
+[2025.08.15-13.07.06:748][322]LogStall: Shutdown complete.
+[2025.08.15-13.07.07:002][322]LogSlate: Window 'SaveRayanREMAKE - Unreal Editor' being destroyed
+[2025.08.15-13.07.08:297][322]Cmd: QUIT_EDITOR
+[2025.08.15-13.07.08:318][323]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.08.15-13.07.08:538][323]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.08.15-13.07.08:628][323]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.08.15-13.07.08:638][323]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.08.15-13.07.09:061][323]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.15-13.07.09:143][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.15-13.07.09:143][323]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.15-13.07.10:694][323]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.08.15-13.07.10:727][323]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.08.15-13.07.10:947][323]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.08.15-13.07.11:541][323]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.08.15-13.07.11:541][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.15-13.07.11:744][323]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.08.15-13.07.11:805][323]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.08.15-13.07.11:908][323]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.08.15-13.07.12:367][323]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.08.15-13.07.12:367][323]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.08.15-13.07.12:388][323]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2025.08.15-13.07.12:428][323]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.08.15-13.07.12:557][323]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.08.15-13.07.12:638][323]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.08.15-13.07.12:747][323]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.08.15-13.07.12:747][323]LogAudio: Display: Audio Device Manager Shutdown
+[2025.08.15-13.07.12:907][323]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.08.15-13.07.12:931][323]LogExit: Preparing to exit.
+[2025.08.15-13.07.14:426][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.08.15-13.07.16:022][323]LogEditorDataStorage: Deinitializing
+[2025.08.15-13.07.19:165][323]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.08.15-13.07.22:251][323]LogExit: Editor shut down
+[2025.08.15-13.07.22:274][323]LogExit: Transaction tracking system shut down
